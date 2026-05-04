@@ -6,17 +6,17 @@
 <h4 align="center">Reset your forgotten MySQL root password safely in seconds</h4>
 
 <p align="center">
-  <a href="https://github.com/dredyne/mysql-password-reset/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/dredyne/mysql-password-reset?style=plastic">
+  <a href="https://github.com/alaevate/mysql-password-reset/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/alaevate/mysql-password-reset?style=plastic">
   </a>  
-  <a href="https://github.com/dredyne/mysql-password-reset/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/dredyne/mysql-password-reset?style=plastic">
+  <a href="https://github.com/alaevate/mysql-password-reset/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/alaevate/mysql-password-reset?style=plastic">
   </a>
-  <a href="https://github.com/dredyne/mysql-password-reset/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dredyne/mysql-password-reset?style=plastic">
+  <a href="https://github.com/alaevate/mysql-password-reset/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alaevate/mysql-password-reset?style=plastic">
   </a>
-  <a href="https://github.com/sponsors/dredyne">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dredyne?style=plastic">
+  <a href="https://github.com/sponsors/alaevate">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/alaevate?style=plastic">
   </a>
 </p>
 
@@ -82,13 +82,13 @@ sudo ./run.sh
 
 ## 🐛 Issues?
 
-Found a bug? Report it: https://github.com/dredyne/mysql-password-reset/issues
+Found a bug? Report it: https://github.com/alaevate/mysql-password-reset/issues
 
 ## ❤️ Support This Project
 
 - ⭐ Star the repo
 - 💬 Share feedback
-- 🤝 Sponsor: https://github.com/sponsors/dredyne
+- 🤝 Sponsor: https://github.com/sponsors/alaevate
 
 ## 📄 License
 
@@ -96,4 +96,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-<div align="center"><sub>Built with ❤️ by <a href="https://github.com/dredyne">dredyne</a></sub></div>
+<div align="center"><sub>Built with ❤️ by <a href="https://github.com/alaevate">Alaevate</a></sub></div>
